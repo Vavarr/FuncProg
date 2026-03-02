@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task List (Functional Approach)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>My Task List</h1>
+
+        <!-- Add task form -->
+        <div class="add-task">
+            <input type="text"
+                   id="taskInput"
+                   placeholder="What needs to be done?"
+                   onkeypress="handleKeyPress(event)">
+            <button onclick="addTask()">Add</button>
+        </div>
+
+        <!-- Filters -->
+        <div class="filters">
+            <button class="filter-btn active" onclick="setFilter('all')">All</button>
+            <button class="filter-btn" onclick="setFilter('active')">Active</button>
+            <button class="filter-btn" onclick="setFilter('completed')">Completed</button>
+        </div>
+
+        <!-- Statistics -->
+        <div class="tasks-stats">
+            <span id="totalTasks">Total: 0</span>
+            <span id="completedTasks">Completed: 0</span>
+        </div>
+
+        <!-- Task list -->
+        <ul class="tasks-list" id="tasksList"></ul>
+
+        <!-- Clear completed -->
+        <div class="clear-completed">
+            <button onclick="clearCompleted()">Clear completed</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
