@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\APolitech\\Func_prog\\3\\lab3_prog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA3C2E9-36C3-9C72-7CF1-4E420BD5A2D9}|lab3_prog\\lab3_prog.esproj|d:\\apolitech\\func_prog\\3\\lab3_prog\\lab3_prog\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{CFA3C2E9-36C3-9C72-7CF1-4E420BD5A2D9}|lab3_prog\\lab3_prog.esproj|solutionrelative:lab3_prog\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA3C2E9-36C3-9C72-7CF1-4E420BD5A2D9}|lab3_prog\\lab3_prog.esproj|d:\\apolitech\\func_prog\\3\\lab3_prog\\lab3_prog\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFA3C2E9-36C3-9C72-7CF1-4E420BD5A2D9}|lab3_prog\\lab3_prog.esproj|solutionrelative:lab3_prog\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA3C2E9-36C3-9C72-7CF1-4E420BD5A2D9}|lab3_prog\\lab3_prog.esproj|d:\\apolitech\\func_prog\\3\\lab3_prog\\lab3_prog\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFA3C2E9-36C3-9C72-7CF1-4E420BD5A2D9}|lab3_prog\\lab3_prog.esproj|solutionrelative:lab3_prog\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\APolitech\\Func_prog\\3\\lab3_prog\\lab3_prog\\package.json",
+              "RelativeDocumentMoniker": "lab3_prog\\package.json",
+              "ToolTip": "D:\\APolitech\\Func_prog\\3\\lab3_prog\\lab3_prog\\package.json",
+              "RelativeToolTip": "lab3_prog\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T16:00:45.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "D:\\APolitech\\Func_prog\\3\\lab3_prog\\lab3_prog\\tsconfig.json",
+              "RelativeDocumentMoniker": "lab3_prog\\tsconfig.json",
+              "ToolTip": "D:\\APolitech\\Func_prog\\3\\lab3_prog\\lab3_prog\\tsconfig.json",
+              "RelativeToolTip": "lab3_prog\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T15:53:18.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.ts",
+              "DocumentMoniker": "D:\\APolitech\\Func_prog\\3\\lab3_prog\\lab3_prog\\app.ts",
+              "RelativeDocumentMoniker": "lab3_prog\\app.ts",
+              "ToolTip": "D:\\APolitech\\Func_prog\\3\\lab3_prog\\lab3_prog\\app.ts",
+              "RelativeToolTip": "lab3_prog\\app.ts",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAYwJQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-18T15:48:29.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
